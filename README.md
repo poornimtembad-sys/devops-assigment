@@ -187,6 +187,7 @@ chmod +x backup.sh
 This repository includes screenshots of:
 
 - EC2 Instance
+- 
 - Running Web Application
 - Amazon S3 Bucket
 - CloudWatch Dashboard
